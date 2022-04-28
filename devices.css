@@ -1,0 +1,128 @@
+/* smallest */
+@media screen and (max-width: 321px) {
+    body{
+        font-family: 'Futura PT Book';
+        margin-right: 0.5%;
+    }
+    .body{
+        margin-left: 5%;
+    }
+    .name{
+        font-size: 50px;
+        font-family: 'Futura PT Medium';
+    }
+    p{
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+    .p{
+        padding-left: 2% !important;
+        padding-bottom: 9%;
+        padding-top: 6%;
+    }
+    .p2{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .war{
+        line-height: 50px;
+        padding-left: 10%;
+    }
+    .copyright{
+        font-size: 12px;
+    }
+}
+/* 4k */
+@media screen and (max-width: 2560px) {
+    body{
+        font-size: 50px;
+        line-height: 50px;
+        margin-right: 0;
+    }
+    .name{
+        font-size: 100px;
+    }
+    .body{
+        margin-left: 5%;
+    }
+    .footer{
+        font-size: 30px;
+    }
+}
+/* 1024 */
+@media screen and (max-width: 1025px) {
+    body{
+        margin-right: 5%;
+    }
+    .name{
+        font-size: 80px;
+        padding-left: 18%;
+    }
+}
+/* 768 */
+@media screen and (max-width: 769px) {
+
+    body{
+        font-size: 40px;
+    }
+    .name{
+        font-size: 60px;
+    }
+}
+/* 425 */
+@media screen and (max-width: 426px) {
+    body{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .name{
+        padding-left: 15%;
+    }
+    .p{
+        padding-left: 15%;
+    }
+}
+/* galaxy tab s4 */
+@media screen and (max-width: 713px) {
+    body{
+        padding-right: 15%;
+    }
+}
+/* 12 pro */
+@media screen and (max-width: 391px) {
+    .p{
+        padding-left: 20px;
+    }
+    .war{
+        line-height: 50px;
+        padding-left: 15%;
+    }
+    .copyright{
+        font-size: 12px;
+    }
+}
+/* galaxy 8+ */
+@media screen and (max-width: 361px) {
+    .copyright{
+        font-size: 11px;
+    }
+}
+/* ipad air */
+@media screen and (max-width: 821px) {
+    body{
+        max-width: 800px;
+        margin-right: 0;
+    }
+}
+/* fold */
+@media screen and (max-width: 281px) {
+    .copyright{
+        font-size: 11px;
+    }
+}
+/* 6/7/8 plus */
+@media screen and (max-width: 415px) {
+    body{
+        width: 400px;
+    }
+}
