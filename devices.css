@@ -125,4 +125,10 @@
     body{
         width: 400px;
     }
+    .war{
+        line-height: 50px;
+    }
+    .p{
+        padding-left: 20%;
+    }
 }
